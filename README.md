@@ -31,7 +31,8 @@ function getState(a, b, c, d) {
 and it draws isolines with respect to the result of isolines by the following test cases, 
 
 ```
-if (total == 0) {
+            if (total == 0) {![mar_sqr teal wavy](https://user-images.githubusercontent.com/66783110/112745387-bc92d200-8fc5-11eb-8a2b-47c55a5d7979.png)
+
                 null;
             } else if (total == 1) {
                 drawline(c, d);
