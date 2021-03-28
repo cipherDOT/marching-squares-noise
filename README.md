@@ -70,4 +70,4 @@ and it draws isolines with respect to the result of isolines by the following te
 
 and it uses the noise function to produce normalized variation over a area.
 
-![](mar_sqr%20wavy.png)
+![](mar_sqr%20teal%20wavy.png)
